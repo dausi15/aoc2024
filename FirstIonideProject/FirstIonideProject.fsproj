@@ -4,8 +4,10 @@
     <TargetFramework>net8.0</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="4.fs" />
+    <Compile Include="1.fs" />
     <Compile Include="2.fs" />
-    <Compile Include="Program.fs" />
+    <Compile Include="4.fs" />
+    <Compile Include="4-2.fs" />
+    <Compile Include="5-1.fs" />
   </ItemGroup>
 </Project>

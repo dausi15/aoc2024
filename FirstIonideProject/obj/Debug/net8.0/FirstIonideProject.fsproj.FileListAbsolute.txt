@@ -27,3 +27,11 @@ c:\src\aoc2024\FirstIonideProject\obj\Debug\net8.0\refint\FirstIonideProject.dll
 c:\src\aoc2024\FirstIonideProject\obj\Debug\net8.0\FirstIonideProject.pdb
 c:\src\aoc2024\FirstIonideProject\obj\Debug\net8.0\FirstIonideProject.genruntimeconfig.cache
 c:\src\aoc2024\FirstIonideProject\obj\Debug\net8.0\ref\FirstIonideProject.dll
+c:\src\aoc2024\aoc2024\FirstIonideProject\obj\Debug\net8.0\FirstIonideProject.fsproj.AssemblyReference.cache
+c:\src\aoc2024\aoc2024\FirstIonideProject\obj\Debug\net8.0\FirstIonideProject.AssemblyInfoInputs.cache
+c:\src\aoc2024\aoc2024\FirstIonideProject\obj\Debug\net8.0\FirstIonideProject.AssemblyInfo.fs
+c:\src\aoc2024\aoc2024\FirstIonideProject\obj\Debug\net8.0\FirstIonideProject.fsproj.CoreCompileInputs.cache
+c:\src\aoc2024\aoc2024\FirstIonideProject\obj\Debug\net8.0\FirstIonideProject.sourcelink.json
+c:\src\aoc2024\aoc2024\FirstIonideProject\obj\Debug\net8.0\FirstIonideProject.dll
+c:\src\aoc2024\aoc2024\FirstIonideProject\obj\Debug\net8.0\refint\FirstIonideProject.dll
+c:\src\aoc2024\aoc2024\FirstIonideProject\obj\Debug\net8.0\FirstIonideProject.pdb
